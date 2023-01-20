@@ -1,4 +1,4 @@
-# Techcareer.net Data Science Bootcamp kapsamında hazırlanan Wikipedia WebScraping Veri Analizi projesidir.
+# Techcareer.net Data Analysis Bootcamp kapsamında hazırlanan Wikipedia WebScraping Veri Analizi projesidir.
 
 Verilerin elde edilmesi için yazılan Excel VBA ve Python kodlarını içermektedir.
 
